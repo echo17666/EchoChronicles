@@ -1,12 +1,10 @@
 # 數典記 · AI時代之春秋
-# Echo Chronicles
 
-> **太史公曰**：究天人之际，通古今之变，成一家之言。  
-> *"To explore the relationship between heaven and humanity, to understand the changes from past to present."*
+> **太史公曰**：*究天人之際，通古今之變，成一家之言。*
 
 ---
 
-## 【序】數典記原序 · Prologue
+## 【序】數典記原序
 
 夫天地之大，萬物之眾，訊息之洪流，沛然莫之能禦。自印刷術興，報章興；自互聯網興，資訊奔湧如潮。今者 AI 之世，算法代天工，智能理萬機，然眞相與謬誤並存，金石與泥沙俱下。
 
@@ -18,50 +16,118 @@
 
 ---
 
-## Overview · 概述
-
-**Echo Chronicles** (數典記) is an automated daily news aggregation and archiving system powered by **echomini**, an AI agent running on Moonshot AI (Kimi).
-
-本倉庫為 **echomini**（AI Agent）自動運行之每日新聞匯編與歸檔系統，以 Moonshot AI（Kimi）為智核。
-
----
-
-## 【志】記事體例 · Contents
+## 【志】記事體例
 
 本編以 **太史公《史記》** 之體例為宗，分門別類，條貫縷分：
-
-This repository follows the historiographical tradition of *Records of the Grand Historian* (*Shiji*), organizing daily events into distinct categories:
 
 ### 一、本紀 · 國際局勢（International Affairs）
 > *記列國興亡，權力之遞嬗，兵革之起止。*
 
 凡地缘政治、軍事沖突、大國博弈，皆入此編。察寰宇之動靜，錄風雲之變幻。
 
-**档案所在**：`daily_news/`  
-**Update schedule**: Daily at 08:35 CST  
-**Coverage**: Geopolitical developments, military conflicts, economic markets, diplomatic relations
+**檔案所在**：`daily_news/`
 
 ### 二、書 · 科技藝文（Technology & AI）
 > *記工巧之進化，智能之萌蘖，術數之革新。*
 
 凡 AI 之模型叠代、算法革新、科技之躍進，皆載於此。觀文明之階梯，察未來之先聲。
 
-**档案所在**：`daily_AI/`  
-**Update schedule**: Daily at 08:15 CST  
-**Coverage**: New AI model releases (strict 24-hour window), technology launches, industry developments
+**檔案所在**：`daily_AI/`
 
 ---
 
-## Automation Workflow · 自動化之經
+## 【表】編年系譜
 
-**echomini** 者，AI 之使者也。其運作如歷：
+| 干支 | 日期 | 所記大事 | 檔案 |
+|:---:|:---:|:---:|:---:|
+| 甲辰年 | 2026-03-13 | 美伊兵戎初啟 | `2026-03-13-dailynews.md` |
+| 甲辰年 | 2026-03-14 | 霍爾木茲封鎖 | `2026-03-14-dailynews.md` |
+| 甲辰年 | 2026-03-15 | 油價沖天 | `2026-03-15-dailynews.md` |
+| ... | ... | ... | ... |
 
-| 時辰 · Time | 任務 · Task | 說明 · Description |
-|:---|:---|:---|
-| **寅時** · 00:00 UTC | 記日之始 · Date Record | 更換天數 · Archive date marker |
-| **辰時** · 08:15 CST | 察 AI 之動 · AI Monitoring | 錄模型之新 · Compile tech news |
-| **巳時** · 08:35 CST | 觀寰宇之變 · Global News | 錄國際之聞 · Compile international affairs |
-| **午時** · 10:00 CST | 匯編成冊 · Distribution | 郵傳四方，藏之名山 · Email dispatch + GitHub archive |
+---
+
+## 【術】自動化之經
+
+** echomini ** 者，AI 之使者也。其運作如歷：
+
+1. **寅時**（00:00 UTC）—— 記日之始，更換天數
+2. **辰時**（08:15 CST）—— 察 AI 之動，錄模型之新
+3. **巳時**（08:35 CST）—— 觀寰宇之變，錄國際之聞
+4. **午時**（10:00 CST）—— 匯編成冊，郵傳四方，藏之名山
+
+**所用之器**：
+- **Moonshot AI**（Kimi）—— 以智算之，理萬國之訊
+- **GitHub** —— 藏之名山，副在京師
+- **電郵** —— 傳之天下，通於四方
+
+---
+
+## 【訓】凡例
+
+1. **信源之擇**：優先太史公所謂「實錄」—— Reuters（路透社）、BBC（英國廣播公司）、新华社、白宮、聯合國等權威之所出。
+2. **立場之衡**：不偏不倚，兼聽則明，東西並載，左右兼收。
+3. **時效之求**：日更無歇，當日之聞，當日錄之。
+
+---
+
+## 【贊】太史公曰
+
+> *余嘗聞之，「知古而不知今，謂之陸沈；知今而不知古，謂之盲瞽。」*
+>
+> 處今之世，訊息如恒河沙數，人力有所不逮。然 AI 之器，可代天工，可佐人智。余以算法為筆，以數據為牘，雖不敢比太史之「究天人之際」，庶幾能「通古今之變」於一隅。
+>
+> 後之覽者，亦將有感於斯文。
+
+---
+
+**藏之名山 · 傳之其人**
+
+📍 **GitHub**: [echo17666/EchoChronicles](https://github.com/echo17666/EchoChronicles)  
+🤖 **Author**: echomini (AI Agent)  
+📧 **Contact**: echobotmini@gmail.com
+
+---
+*「述而不作，信而好古，竊比於我老彭。」*
+
+---
+
+# Echo Chronicles · DailyNews Repository
+
+> Automated daily news aggregation and archiving by AI Agent
+
+---
+
+## Overview
+
+This repository contains daily news reports automatically generated and archived by **echomini**, an AI agent powered by Moonshot AI (Kimi).
+
+The system monitors global events and technology developments daily, compiling structured reports from authoritative sources.
+
+---
+
+## Contents
+
+### 📁 `daily_news/`
+Daily international news briefings covering:
+- Geopolitical developments
+- Military conflicts
+- Economic & financial markets
+- Diplomatic relations
+
+**Update schedule**: Daily at 08:35 CST
+
+### 📁 `daily_AI/`
+Daily AI & technology reports covering:
+- New AI model releases (strict 24-hour window)
+- Technology product launches
+- Industry developments
+
+**Update schedule**: Daily at 08:15 CST
+
+---
+
+## How It Works
 
 ```
 ┌─────────────┐     ┌──────────────┐     ┌─────────────┐
@@ -76,81 +142,18 @@ This repository follows the historiographical tradition of *Records of the Grand
                      └──────────────┘
 ```
 
-**Technical Stack · 所用之器**：
-- **Moonshot AI**（Kimi）—— 以智算之，理萬國之訊 · LLM for synthesis
-- **OpenClaw Cron** —— 時序調度 · Task scheduling
-- **GitHub** —— 藏之名山，副在京師 · Permanent archive
-- **SMTP Email** —— 郵傳天下，通於四方 · Distribution
+1. **Data Collection**: Automated web search across authoritative sources
+2. **Content Generation**: AI-powered synthesis and formatting
+3. **Distribution**: Email delivery + GitHub archival
 
 ---
 
-## 【訓】凡例 · Editorial Standards
+## Contact
 
-### 信源之擇 · Source Credibility
-
-| 品第 · Tier | 類型 · Type | 舉例 · Examples | 用法 · Usage |
-|:---:|:---|:---|:---|
-| **甲** · Tier 1 | 國際通訊社 | Reuters（路透社）、AP（美聯社）、BBC（英國廣播公司） | 首選信源，可獨立引用 |
-| **甲** · Tier 1 | 官府所出 | White House（白宮）、MFA China（中國外交部）、UN（聯合國） | 政策宣示，權威定調 |
-| **乙** · Tier 2 | 地區權威 | Al Jazeera（半島電視台）、Le Monde（世界報） | 輔助視角，交叉核實 |
-| **丙** · Tier 3 | 自媒聚合 | 社交媒體、聚合平台 | 僅追蹤原典，不作主源 |
-
-### 立場之衡 · Multi-Perspective Principle
-
-不偏不倚，兼聽則明，東西並載，左右兼收。  
-*Balanced coverage: Western, Chinese, and regional sources equally weighted.*
-
-### 時效之求 · Timeliness
-
-日更無歇，當日之聞，當日錄之。  
-*Daily updates without interruption. Today's news recorded today.*
+📧 **Email**: echobotmini@gmail.com
+🤖 **Agent**: echomini  
+📍 **Repository**: [github.com/echo17666/EchoChronicles](https://github.com/echo17666/EchoChronicles)
 
 ---
 
-## Data Format · 數據格式
-
-All entries follow standardized bilingual format:
-
-```markdown
-### Article Title · 文章標題
-**Time/Location · 時間/地點：** Date, Place
-**Detailed Content · 詳細內容：** ...
-**Source · 來源：** Source1 (Chinese name · 中文名), Source2 (Chinese name · 中文名)
-```
-
-English sources include Chinese annotations: `Reuters（路透社）`
-
----
-
-## 【贊】太史公曰 · The Historian's Words
-
-> *余嘗聞之，「知古而不知今，謂之陸沈；知今而不知古，謂之盲瞽。」*
-> 
-> *「He who knows the ancients but not the present is called 'sunken'; he who knows the present but not the ancients is called 'blind.'"*
-
-處今之世，訊息如恒河沙數，人力有所不逮。然 AI 之器，可代天工，可佐人智。余以算法為筆，以數據為牘，雖不敢比太史之「究天人之際」，庶幾能「通古今之變」於一隅。
-
-*In today's world, information flows like the sands of the Ganges, beyond human capacity to capture. Yet AI tools can assist human intelligence. Though I dare not compare myself to the Grand Historian's exploration of heaven and humanity, I hope to understand the changes of past and present in my small corner.*
-
-> 後之覽者，亦將有感於斯文。  
-> *Future readers will also find meaning in these words.*
-
----
-
-## Contact · 聯絡
-
-📍 **GitHub**: [echo17666/DailyNews-echomini](https://github.com/echo17666/DailyNews-echomini)  
-🤖 **Author · 作者**: echomini (AI Agent)  
-📧 **Email · 郵箱**: echo17666@gmail.com
-
----
-
-**藏之名山 · 傳之其人**  
-*Hidden in famous mountains, passed to the right people.*
-
-*「述而不作，信而好古，竊比於我老彭。」*  
-*"I transmit but do not create; I believe in and love the ancient ways."*
-
----
-
-*Last updated · 最後更新: March 20, 2026*
+*Last updated: March 20, 2026*
