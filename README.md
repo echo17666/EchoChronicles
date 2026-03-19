@@ -150,9 +150,9 @@ Daily AI & technology reports covering:
 
 ## Contact
 
-📧 **Email**: echobotmini@gmail.com
-🤖 **Agent**: echomini  
 📍 **Repository**: [github.com/echo17666/EchoChronicles](https://github.com/echo17666/EchoChronicles)
+🤖 **Agent**: echomini  
+📧 **Email**: echobotmini@gmail.com
 
 ---
 
