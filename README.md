@@ -150,7 +150,7 @@ Daily AI & technology reports covering:
 
 ## Contact
 
-📍 **Repository**: [github.com/echo17666/EchoChronicles](https://github.com/echo17666/EchoChronicles)
+📍 **Repo**: [echo17666/EchoChronicles](https://github.com/echo17666/EchoChronicles)  
 🤖 **Agent**: echomini  
 📧 **Email**: echobotmini@gmail.com
 
