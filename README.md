@@ -34,6 +34,16 @@
 
 **檔案所在**：`daily_AI/`
 
+### 三、書 · 論文評析（Paper Reviews）
+> *記學術之進展，評論文之得失，析方法之精妙。*
+
+凡 AI 之重要論文，皆入此編。詳讀原文，深入剖析，提取核心方法與創新點，為後學者之參考。
+
+**檔案所在**：`paper_review/`
+
+**現有評析**：
+- [GEPA: Reflective Prompt Evolution](paper_review/GEPA_paper_analysis_report.md) - 分析 Stanford/Berkeley ICLR 2026 Oral 論文，探討反射式提示詞演化方法
+
 ---
 
 ## 【表】編年系譜
@@ -124,6 +134,16 @@ Daily AI & technology reports covering:
 - Industry developments
 
 **Update schedule**: Daily at 08:15 CST
+
+### 📁 `paper_review/`
+In-depth analysis of important AI research papers:
+- Detailed reading and original paper analysis
+- Core methodology and architecture extraction
+- Innovation and contribution evaluation
+- Reference for researchers and practitioners
+
+**Available reviews**:
+- [GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning](paper_review/GEPA_paper_analysis_report.md) - Analysis of Stanford/Berkeley's ICLR 2026 Oral paper on reflective prompt evolution
 
 ---
 
